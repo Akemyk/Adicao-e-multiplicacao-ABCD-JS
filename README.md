@@ -5,4 +5,4 @@ utilização do conceito da propriedade distributiva. Ou seja, se forem lidas as
 devem ser somadas e multiplicadas A com B, A com C e A com D. Depois B com C, B com D e por fim
 C com D. Perceba que será necessário efetuar seis operações de adição e seis operações de
 multiplicação e apresentar doze resultados de saída.</p>
-<p>Clique aqui para testar -> https://akemyk.github.io/Viagem-percorrida-JS/ </p>
+<p>Clique aqui para testar -> https://akemyk.github.io/Adicao-e-multiplicacao-ABCD-JS/ </p>
